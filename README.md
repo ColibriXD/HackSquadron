@@ -9,3 +9,6 @@ fonctionalité :
 4. recuperer des informations sur l'ordinateur
 
 ce projet n'est pas fait pour nuire nis cosser des dégats mais pour un but d'apprentissage personelle en code et un partage de celui ci.
+
+
+projet creer par colibriXD, pour toute utilisation du code veuillez me mentionnez en temp que le devellopeur 
