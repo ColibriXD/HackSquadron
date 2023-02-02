@@ -12,3 +12,9 @@ ce projet n'est pas fait pour nuire nis cosser des dégats mais pour un but d'ap
 
 
 projet creer par colibriXD, pour toute utilisation du code veuillez me mentionnez en temp que le devellopeur 
+
+commande à utilisé :
+
+```
+/start
+```
