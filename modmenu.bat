@@ -1,5 +1,6 @@
 @echo off
 title modmenu
+color a
 :modmenu
 echo ==============
 echo    mod menu                                       
@@ -21,7 +22,9 @@ if "%choice%"=="1" (
   echo 1
   pause
 ) else if "%choice%"=="2" (
-  echo 2
+  cd fonctions
+  start iprecup.bat
+  echo iprecup ouvert
   pause
   ) else if "%choice%"=="3" (
   echo 3
