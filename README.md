@@ -1,5 +1,3 @@
-https://github.com/ColibriXD/modmenu/blob/main/preview.png
-
 # modmenu
 un modmenu creer un .bat
  
@@ -21,3 +19,7 @@ commande à utilisé :
 /start
 ```
 pour information ce n'est pas la version finale
+
+image de représentation :
+
+![preview](https://github.com/ColibriXD/modmenu/blob/main/preview.png)
