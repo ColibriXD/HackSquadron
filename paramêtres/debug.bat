@@ -8,10 +8,14 @@ echo.
 echo. 
 set /p choice=entrez commande de debug :
 
-if "%choice%" == "/start" (
-echo Démarrage en cours...
-echo Tâche terminée.
+if "%choice%" == "/help" (
+echo liste des commandes :
+echo.
+echo 1. testfonction
+echo 2. addextension
+echo 3. deletextension
+echo.
 ) else (
-echo Commande non reconnue. Utilisez "/start" pour démarrer.
+echo Commande non reconnue. Utilisez "/help" pour avoir la liste des commandes.
 )
 pause
