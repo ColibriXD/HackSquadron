@@ -18,3 +18,4 @@ commande à utilisé :
 ```
 /start
 ```
+pour information ce n'est pas la version finale
