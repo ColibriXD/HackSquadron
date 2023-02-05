@@ -1,5 +1,5 @@
 @echo off
-color a
+color 1F
 title debug_mod
 echo ===============
 echo   debug

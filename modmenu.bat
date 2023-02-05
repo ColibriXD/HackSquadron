@@ -1,6 +1,6 @@
 @echo off
 title modmenu
-color a
+color 47
 :modmenu
 echo ==============
 echo    mod menu                                       
