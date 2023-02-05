@@ -33,7 +33,6 @@ if "%choice%"=="1" (
   echo 4
   pause
    ) else if "%choice%"=="5" (
-  echo 5
-  pause
-  exit)
+  echo aurevoir
+  exit )
 pause
