@@ -3,7 +3,7 @@ title modmenu
 color 47
 :modmenu
 echo ==============
-echo    mod menu                                       
+echo  HackSquadron                                      
 echo ==============
 echo.
 echo.
