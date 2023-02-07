@@ -9,12 +9,12 @@ for /f "delims=" %%f in ('dir /b /s /a:-d "%searchFolder%HackSquadron.bat"') do 
 )
 
 REM Search for the ico.png file
-for /f "delims=" %%f in ('dir /b /s /a:-d "%searchFolder%icon.png"') do (
+for /f "delims=" %%f in ('dir /b /s /a:-d "%searchFolder%icon.jpg"') do (
   set iconFile="%%f"
 )
 
 REM Set the shortcut name
-set shortcutName="god de mod.bat"
+set shortcutName="HackSquadron.bat"
 set shortcutFile="%searchFolder%HackSquadron.bat.lnk"
 
 REM Create the shortcut
